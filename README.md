@@ -103,7 +103,7 @@ We'll start by creating the workflow file to publish a Docker image to GitHub Pa
   Define terms and link to docs.github.com.
 -->
 
-<details id=2>
+<details id=2 open>
 <summary><h2>Step 2: Add a Dockerfile</h2></summary>
 
 _You created a publishing workflow! :tada:_
