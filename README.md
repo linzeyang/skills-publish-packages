@@ -128,7 +128,7 @@ We will add a `Dockerfile` in this pull request. The `Dockerfile` contains a set
   Define terms and link to docs.github.com.
 -->
 
-<details id=3>
+<details id=3 open>
 <summary><h2>Step 3: Merge your pull request</h2></summary>
 
 _Let's get publishing! :heart:_
